@@ -1,2 +1,2 @@
-This is my machine learning note!
+This is my machine learning notes!
 welcome to fork.
